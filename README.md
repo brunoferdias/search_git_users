@@ -1,16 +1,22 @@
 # fetch_git_users
 
-A new Flutter project.
+Este projeto é uma aplicação Flutter que busca usuários do GitHub através do nome de usuário digitado e exibe seus repositórios associados. O aplicativo utiliza o padrão de arquitetura MVVM (Model-View-ViewModel) para separar as preocupações de apresentação e lógica de negócios.
 
-## Getting Started
+## Funcionalidades
 
-This project is a starting point for a Flutter application.
+- Busca de usuários do GitHub por nome de usuário.
+- Exibição dos repositórios associados a um usuário.
+- Utilização do padrão MVVM para organização do código.
 
-A few resources to get you started if this is your first Flutter project:
+## Demonstração
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Aqui está uma demonstração da funcionalidade do aplicativo:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Demo](assets/demonstration.gif)
+
+## Como começar
+
+Para começar a desenvolver com Flutter, você pode seguir estes recursos:
+
+- [Laboratório: Escreva seu primeiro aplicativo Flutter](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Exemplos úteis de Flutter](https://docs.flutter.dev/co
